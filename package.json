@@ -1,0 +1,22 @@
+{
+  "name": "foreign-exhange-rates",
+  "version": "1.0.0",
+  "description": "A package for foreign exchange rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onesinus/foreign-exchange-rates.git"
+  },
+  "keywords": [
+    "exchange-rates"
+  ],
+  "author": "OnesinusSPT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onesinus/foreign-exchange-rates/issues"
+  },
+  "homepage": "https://github.com/onesinus/foreign-exchange-rates#readme"
+}
