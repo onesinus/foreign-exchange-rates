@@ -1,6 +1,6 @@
 {
   "name": "foreign-exhange-rates",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "A package for foreign exchange rates",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/onesinus/foreign-exchange-rates/issues"
   },
-  "homepage": "https://github.com/onesinus/foreign-exchange-rates#readme"
+  "homepage": "https://github.com/onesinus/foreign-exchange-rates#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
